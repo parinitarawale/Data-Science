@@ -1,0 +1,6 @@
+print ("18", "dec", "2003", sep="-")
+print()
+print("Process started...", flush=True)
+print()
+name = input ("Enter your name: ")
+print("Welcome " + name)
